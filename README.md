@@ -167,7 +167,7 @@ The dashboard contains **8 major visualizations**:
 
 ### Dashboard Preview
 
-![Excel Dashboard](Screenshots/Excel_Dashboard.png)
+![Excel Dashboard](Screenshots/Excel__Dashboard.png)
 
 ---
 
