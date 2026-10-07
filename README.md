@@ -167,7 +167,7 @@ The dashboard contains **8 major visualizations**:
 
 ### Dashboard Preview
 
-![E-Commerce Excel Dashboard](screenshots/dashboard.png)
+![Excel Dashboard](Screenshots/Excel_Dashboard.png)
 
 ---
 
